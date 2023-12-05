@@ -18,4 +18,7 @@ pip install git+https://github.com/antonyvam/nDTomo.git --user
 ```
 
 This repo contains three necessary .py files which are used to test the traditional methods on the simulated data, test the Self2Comp with simulated data and test the Self2Comp with real experimental data.
-The example experimental data can be found:
+
+The example experimental data can be found: https://doi.org/10.5281/zenodo.10259806
+
+Please download the experimental dataset from the website and put it into the ./data folder.
